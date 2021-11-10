@@ -1,0 +1,11 @@
+{
+    "name": "my-first-pulumi-app",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/azure-native": "^1.45.0",
+        "@pulumi/docker": "^3.1.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
